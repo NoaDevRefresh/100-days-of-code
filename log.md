@@ -10,3 +10,12 @@
 
 **Link to work:** Simple Media Player (https://github.com/NoaDevRefresh/MediaPlayerJs.git)
 
+### Day 2: July 7th, 2021
+
+**Today's Progress**: Added the first plugin Autoplay that plays the video as soon as the page charges. Also added a mute button because the browser won't allow autoplay with sound (accesibility related) so it starts muted and needed a button to unmute. 
+
+**Future work: The styles are terrible since I'm focusing on the functionality first. This will need work at some point.
+
+**Thoughts:** I got to work with media objects and learnt some things about them.
+
+**Link to work:** Simple Media Player (https://github.com/NoaDevRefresh/MediaPlayerJs.git)
