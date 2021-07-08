@@ -19,3 +19,14 @@
 **Thoughts:** I got to work with media objects and learnt some things about them.
 
 **Link to work:** Simple Media Player (https://github.com/NoaDevRefresh/MediaPlayerJs.git)
+
+
+### Day 3: July 8th, 2021
+
+**Today's Progress**: All controls added and working. No style though.
+
+**Future work: Refactoring and adding getters and setter for better performance. Styles.
+
+**Thoughts:** All controls are working but I want to refactor and optimize some delays I can see on the video. Looking forward working on that styles..
+
+**Link to work:** Simple Media Player (https://github.com/NoaDevRefresh/MediaPlayerJs.git)
